@@ -1,7 +1,7 @@
 # Asana Clone — Cross-Platform Task Manager
 
 A cross-platform task management application inspired by Asana, built with .NET MAUI. The app allows multiple users to manage projects and to-do items across macOS, Windows, iOS, and Android from a single shared codebase. Also includes a standalone CLI version of the core functionality.
-
+youtube walkthrough video: https://www.youtube.com/watch?v=Q7u_eJ0yfe0 
 ---
 
 ## Tech Stack
